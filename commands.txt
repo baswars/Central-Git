@@ -1,0 +1,11 @@
+git --version
+git init
+git add
+git status
+git status --short
+git log
+git log --oneline
+git log --oneline --pretty
+git log -1
+git log -stat
+
