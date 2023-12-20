@@ -10,3 +10,7 @@ git log -1
 git log -stat
 git rm --cached
 git restore
+git clone
+git push
+git pull
+git merge
