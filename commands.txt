@@ -8,4 +8,5 @@ git log --oneline
 git log --oneline --pretty
 git log -1
 git log -stat
-
+git rm --cached
+git restore
