@@ -14,3 +14,7 @@ git clone
 git push
 git pull
 git merge
+git config --global user.name
+git config --global user.email
+git config --list
+git config --global --edit
